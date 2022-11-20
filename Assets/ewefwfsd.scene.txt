@@ -1,0 +1,17 @@
+#SceneStart1
+#GameObjects 
+#New
+-name GameCamera1-type Camera
+-position -3 , -2 , -171-rotation 20.8 , -3.79998 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name name1-type GameObject
+-position -6 , -4 , -341-rotation 41.6 , -7.59997 , 01-scale 2 , 2 , 21-material 01#End1#New
+-name player1-type GameObject
+-position 2 , 0 , 21-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name new Cube1-type Cube
+-position 3 , 5 , 21-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name new ball1-type GameObject
+-position 4 , 1 , 21-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name new Plane1-type Plane
+-position 0 , 3 , 01-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name test1-type GameObject
+-position 1.1 , 1.1 , -1.11-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1

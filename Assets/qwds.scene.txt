@@ -1,0 +1,11 @@
+#SceneStart1
+#GameObjects 
+#New
+-name GameCamera1-type Camera
+-position -3 , -2 , -101-rotation 18.2 , -29 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name GameCameraPos1-type GameObject
+-position -6 , -4 , -201-rotation 36.4 , -58 , 01-scale 2 , 2 , 21-material 01#End1#New
+-name player1-type GameObject
+-position 2 , 0 , 21-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1#New
+-name new 1-type Cube
+-position 2 , 2 , 21-rotation 0 , 0 , 01-scale 1 , 1 , 11-material 01#End1
